@@ -1,0 +1,2 @@
+docker stop port_8000
+docker stop port_3000
