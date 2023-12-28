@@ -1,1 +1,1 @@
-docker build -t 2048-game .
+docker build -t 2048-game:10-alpine .
